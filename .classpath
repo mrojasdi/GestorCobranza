@@ -6,5 +6,8 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/mroja/Downloads/poi-3.0-FINAL-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mroja/Downloads/poi-src-5.2.5-20231118.zip"/>
+	<classpathentry kind="lib" path="C:/Users/mroja/Downloads/opencsv-5.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

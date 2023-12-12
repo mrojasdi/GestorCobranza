@@ -1,4 +1,4 @@
-package gestorcobranza;
+package model;
 
 public class Cliente {
     private int numeroCliente;
